@@ -6,6 +6,8 @@ Summary
 
 Note taker is an app that allows users to retrieve pre-written notes, read notes, modify notes and write new notes for future retrieval. 
 
+To add a notes, simply enter a title and note and then click on the save button. To delete a note, click on the delete icon next to each note.
+
 The deployed application may be seen at this link
 
 https://normksb-note-taker.herokuapp.com/
